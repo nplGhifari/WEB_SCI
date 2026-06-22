@@ -119,9 +119,11 @@
                             </div>
                         </div>
 
-                        <a href="{{ route('catalog') }}"
-                            class="btn btn-dark btn-lg px-4 py-2 rounded-pill fw-bold shadow-sm">Lihat
-                            Katalog</a>
+                        <a href="{{ route('contact') }}"
+                            class="btn btn-outline-dark px-4 py-2 rounded-pill fw-bold border-2 d-inline-flex align-items-center justify-content-center"
+                            style="min-height: 48px;">
+                            Hubungi Kami
+                        </a>
                     </div>
                 </div>
             </div>
